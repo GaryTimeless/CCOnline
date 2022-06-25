@@ -1,0 +1,11 @@
+.GameObjectDice {
+  padding: 20px 20px;
+  position: absolute;
+  left: 230px;
+  top: 400px;
+}
+#Dice_Text {
+  left: 255px;
+  top: 380px;
+  font-size: small;
+}

@@ -1,0 +1,44 @@
+.GameObjectFigure {
+  padding: 20px 20px;
+}
+
+.GameObjectFigureRED {
+  background-color: red;
+  opacity: 100%;
+  left: 500px;
+  top: 70px;
+}
+.GameObjectFigureWHITE {
+  background-color: #fafafa;
+  opacity: 100%;
+  left: 500px;
+  top: 140px;
+  border-style: solid;
+  border-radius: 1px;
+  border-color: black;
+}
+.GameObjectFigureBLUE {
+  background-color: blue;
+  opacity: 100%;
+  left: 500px;
+  top: 210px;
+}
+.GameObjectFigureBLACK {
+  background-color: black;
+  opacity: 100%;
+  left: 500px;
+  top: 280px;
+}
+.GameObjectFigureGREY {
+  background-color: rgb(54, 54, 54);
+  opacity: 100%;
+  left: 500px;
+  top: 350px;
+}
+
+.GameObjectFigureYELLOW {
+  background-color: yellow;
+  opacity: 100%;
+  top: 10px;
+  left: 500px;
+}

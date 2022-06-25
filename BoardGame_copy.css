@@ -1,0 +1,103 @@
+.boardgame {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  border-width: thin;
+  height: 452px;
+  width: 452px;
+  border-color: black;
+  background-color: green;
+  opacity: 100%;
+}
+
+.button {
+  background-color: green;
+  border-color: black;
+  border-width: 2px;
+  padding: 26px 26px;
+  position: absolute;
+  top: 10px;
+}
+
+.button1 {
+  left: 380px;
+  top: 154px;
+  background-color: blue;
+}
+
+.button2 {
+  left: 380px;
+  top: 226px;
+}
+.button3 {
+  left: 380px;
+  top: 298px;
+}
+.button4 {
+  left: 380px;
+  top: 370px;
+}
+.button5 {
+  left: 308px;
+  top: 370px;
+}
+.button6 {
+  left: 236px;
+  top: 370px;
+}
+.button7 {
+  left: 164px;
+  top: 370px;
+}
+
+.button8 {
+  left: 92px;
+  top: 370px;
+}
+
+.button9 {
+  left: 20px;
+  top: 370px;
+}
+
+.button10 {
+  left: 20px;
+  top: 298px;
+}
+.button11 {
+  left: 20px;
+  top: 226px;
+}
+
+.button12 {
+  left: 20px;
+  top: 154px;
+}
+
+.button13 {
+  left: 20px;
+  top: 82px;
+}
+
+.button14 {
+  left: 20px;
+}
+.button15 {
+  left: 92px;
+}
+.button16 {
+  left: 164px;
+}
+.button17 {
+  left: 236px;
+}
+.button18 {
+  left: 308px;
+}
+.button19 {
+  left: 380px;
+}
+.button20 {
+  left: 380px;
+  top: 82px;
+}
